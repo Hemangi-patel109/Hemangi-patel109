@@ -27,6 +27,34 @@
 </body>
 </html>
 
+# Hi there 👋
+
+Hi 👋, I'm Hemangi Patel
+
+- 🌱 I’m currently learning: **Android Development**
+- I'm good at: **Frontend Development**
+
+- 📫 How to reach me: hspatel1092004@gmail.com
+
+## Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/hemangi-s-patel-5642332a3/)
+
+## Languages and Tools:
+
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemangi-patel109&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Hemangi-patel109&show_icons=true&locale=en)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hemangi-patel109)
+
 <!--
 **Hemangi-patel109/Hemangi-patel109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
