@@ -24,9 +24,9 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemangi-patel109&show_icons=true&locale=en&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemangi-patel109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Hemangi-patel109&show_icons=true&locale=en)
+[![Hemangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemangi-patel109&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hemangi-patel109)
 
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
