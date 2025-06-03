@@ -5,8 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Hemangi Patel</h1>
 
-- 🌱 I’m currently learning : **Android Development**+**Game Development**
-- I'm good at **Frontend Development & UI Designing** 
+- 🌱 I’m currently learning : **Frontend Development**+**Game Development**
+- I'm good at **Android Development & UI Designing** 
 
 - 📫 How to reach me  : **hspatel1092004@gmail.com**
 
